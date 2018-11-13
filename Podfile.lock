@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.5.1)
+  - GetuiSDK-NoIDFA (1.6.2.0):
+    - GetuiSDK-NoIDFA/Core (= 1.6.2.0)
+  - GetuiSDK-NoIDFA/Core (1.6.2.0)
+  - MJRefresh (3.1.15.1)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+  - SnapKit (4.0.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5.1)
+  - GetuiSDK-NoIDFA (~> 1.6.2.0)
+  - MJRefresh (~> 3.1.15.1)
+  - SDWebImage (~> 4.2.2)
+  - SnapKit (~> 4.0.0)
+  - YYModel (~> 1.0.4)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  GetuiSDK-NoIDFA: cafcd9ac8b91cf94bd57a27d51f23563b63ed465
+  MJRefresh: 5f8552bc25ca8751c010f621c1098dbdaacbccd6
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 6eae7741eae436ad833b4a2a5ba8f2d399dd8592
+
+COCOAPODS: 1.4.0
